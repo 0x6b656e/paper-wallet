@@ -1,6 +1,6 @@
-# Bitcoin Private Paper Wallet - paperwallet.btcprivate.org
+# ANON Paper Wallet - paperwallet.nwcoinpool.com
 
-### JavaScript Client-Side BTCP Paper Wallet Generator.
+### JavaScript Client-Side ANON Paper Wallet Generator.
 ### v0.0.2
 
 Uses [btcprivatejs](https://github.com/BTCPrivate/btcprivatejs) based on [zenaddress](https://github.com/ZencashOfficial/zenaddress).
